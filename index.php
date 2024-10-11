@@ -92,7 +92,7 @@ function send_telegram_notification($ip, $location) {
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>SDWAN IP Status Checker (HTTPS)</title>
+    <title>PILAR (Pantauan IP Laporan Real-Time)</title>
     <script src="https://cdn.tailwindcss.com"></script>
     <script>
         let autoRefresh;
@@ -114,7 +114,7 @@ function send_telegram_notification($ip, $location) {
 <body class="bg-gray-100">
 
 <div class="container mx-auto p-8">
-    <h1 class="text-4xl font-bold mb-8 text-center text-gray-800">SDWAN IP Status Checker (HTTPS)</h1>
+    <h1 class="text-4xl font-bold mb-8 text-center text-gray-800">PILAR (Pantauan IP Laporan Real-Time)</h1>
 
     <!-- Tombol untuk Start/Stop Auto Refresh -->
     <div class="text-center mb-6">
