@@ -56,14 +56,14 @@ The following IPs are pre-configured in the script:
 
 | Location          | IP Address    |
 |-------------------|---------------|
-| JAKTIM            | 20.31.123.1   |
-| JAKBAR            | 20.31.124.1   |
-| JAKUT             | 20.31.125.1   |
-| JAKSEL            | 20.31.126.1   |
-| JAKPUS            | 20.31.127.1   |
-| KEP 1000          | 20.31.128.1   |
-| BALAIKOTA         | 20.31.129.1   |
-| WALIKOTA          | 20.31.130.1   |
+| JAKTIM            | 20.31.xxx.1   |
+| JAKBAR            | 20.31.xxx.1   |
+| JAKUT             | 20.31.xxx.1   |
+| JAKSEL            | 20.31.xxx.1   |
+| JAKPUS            | 20.31.xxx.1   |
+| KEP 1000          | 20.31.xxx.1   |
+| BALAIKOTA         | 20.31.xxx.1   |
+| WALIKOTA          | 20.31.xxx.1   |
 
 ## License
 
