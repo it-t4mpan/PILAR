@@ -1,5 +1,5 @@
 # PILAR (Pantauan IP Laporan Real-Time)
-![WhatsApp Image 2024-10-11 at 16 27 49](https://github.com/user-attachments/assets/dc2ecfa3-d40e-48a3-b025-eb732dea4696)
+![WhatsApp Image 2024-10-11 at 16 27 49](https://github.com/user-attachments/assets/115322a2-8a7f-4087-8fde-eb3adbb54016)
 
 
 
